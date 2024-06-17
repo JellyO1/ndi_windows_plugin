@@ -1,6 +1,6 @@
 # ndi_windows_player
 
-A native windows implementation of NDI stream decoding leveraging the `flutter::TextureRegistrar`.
+A native windows implementation of NDI® stream decoding leveraging the `flutter::TextureRegistrar`.
 
 ## Usage
 
@@ -30,3 +30,4 @@ import 'package:ndi_windows_player/ndi_windows_player.dart';
   }
 ```
 
+NDI® is a registered trademark of Vizrt NDI AB
